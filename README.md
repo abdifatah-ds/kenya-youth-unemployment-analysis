@@ -1,6 +1,14 @@
 # 🇰🇪 Kenya Youth Unemployment Analysis (1991–2025)
 > A data science research project investigating the long-term trajectory of youth unemployment in Kenya using exploratory analysis, statistical decomposition, and ARIMA time series forecasting.
 
+## 👋 About This Project
+This project analyses 35 years of Kenyan youth unemployment data to 
+understand whether the crisis is structural or cyclical, and projects 
+trends through 2030 using statistical forecasting. It was built 
+independently as part of my data science learning journey — using 
+real World Bank data, Python, and standard research methods to 
+investigate a problem that directly affects millions of young Kenyans 
+including myself.
 ---
 
 ## 📌 Research Question
