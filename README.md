@@ -29,6 +29,9 @@ kenya-youth-unemployment-analysis/
 │   ├── 2_eda.ipynb
 │   ├── 3_statistical_analysis.ipynb
 │   ├── 4_forecasting.ipynb
+│   ├── trend_chart.png
+│   ├── bar_chart.png
+│   ├── heatmap.png
 │   ├── decomposition.png
 │   └── forecast_chart.png
 ├── requirements.txt
@@ -89,6 +92,25 @@ This project follows a four-stage research pipeline:
 | 2030 | 16.41% | 12.17% | 20.65% |
 
 Even the most optimistic scenario shows no improvement below current levels through 2030.
+
+---
+
+## 📉 Visualizations
+
+### Trend Analysis
+![Trend Chart](notebooks/trend_chart.png)
+
+### Decade Comparison
+![Bar Chart](notebooks/bar_chart.png)
+
+### Correlation Matrix
+![Heatmap](notebooks/heatmap.png)
+
+### Time Series Decomposition
+![Decomposition](notebooks/decomposition.png)
+
+### ARIMA Forecast
+![Forecast](notebooks/forecast_chart.png)
 
 ---
 
